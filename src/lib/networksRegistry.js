@@ -1,6 +1,6 @@
 export const defaultNetwork = {
   name: 'Hyperchain alpha',
-  url: 'http://13.239.157.207:3013',
+  url: 'https://testnet-hc.aeternity.io',
   middlewareUrl: 'https://mainnet.aeternity.io/mdw',
   explorerUrl: 'https://explorer.aeternity.io',
   compilerUrl: 'https://compiler.aepps.com',
